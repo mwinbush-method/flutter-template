@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "893704058191",
+    "project_id": "flutterpoc-dev",
+    "storage_bucket": "flutterpoc-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893704058191:android:ce6a513e4050dbf174013a",
+        "android_client_info": {
+          "package_name": "com.example.architecture_explore.develop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893704058191-fd49s7e1sqmp5uv3j7p0toh6nadejttc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qZy5-hw8UNJUIsSARZ6pjR0Bkvi7_1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893704058191-fd49s7e1sqmp5uv3j7p0toh6nadejttc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893704058191-jhko0mutudfp14k8dh2pi8vccbquhhp6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.architectureExplore.develop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
